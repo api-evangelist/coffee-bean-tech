@@ -1,0 +1,59 @@
+{
+    "name": "Coffee Bean Tech",
+    "description": "Customer Identity to increase revenue, customer retention and customer experience.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1001-coffee-bean-tech.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "crm",
+        "have api",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/coffee-bean-tech\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Coffee Bean Tech",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1001-coffee-bean-tech.jpg",
+            "humanURL": "http:\/\/coffeebeantech.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/coffee-bean-tech-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/coffee-bean-tech-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/coffeebean-technology"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/the-coffee-bean-tea-leaf"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/coffeebeantech"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/coffeebeantech"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/coffeebeantech.com"
+        }
+    ]
+}
